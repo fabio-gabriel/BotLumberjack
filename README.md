@@ -1,11 +1,11 @@
 # BotLumberjack
 
-um bot usando OpenCV para jogar o jogo de telegram lumberjack. Pode ser usado para qualquer variaç
+A bot using OpenCV to automate the game lumberjack from telegram. Can be used for any variation of the game by changing the tree images leftbranch.png and rightbranch.png files
 
-##botpy.py 
-A versão mais completa do código, mostra as imagens sendo analisadas pelo bot
+## botpy.py 
+The more complete version of the code, shows images being analyzed by the bot.
 
-##bot.py
-Versão mais enxuta, somente realiza os comandos
+## bot.py
+Cleaner version, only executes commands
 
-PS - Pode-se aumentar a velocidade do bot diminuindo o tempo de sleep, mas é necessário um computador rápido.
+##### - The bots speed can be increased by reducing sleep time in the code, but it will require more resources
